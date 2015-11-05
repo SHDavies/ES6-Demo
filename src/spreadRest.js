@@ -32,14 +32,14 @@ export default function() {
 
 
 
-	
+
 
 	// // ES6
 	// function doStuff(num1, num2, num3) {
 	// 	// Stuff
 	// }
 	// var stuffArr = [1, 2, 3];
-	// doStuff(...stuffArr);
+	// doStuff();
 
 
 
@@ -84,7 +84,7 @@ export default function() {
 
 	// ES6
 	// let arr1 = [2, 3];
-	// let arr2 = [0, 1, ...arr1, 4, 5];
+	// let arr2 = ;
 	// console.log(arr2);
 
 
@@ -124,8 +124,8 @@ export default function() {
 
 
 	// // ES6
-	// function lotsOfArgs(...argsArray) {
-	// 	return argsArray;
+	// function lotsOfArgs() {
+	// 	return ;
 	// }
 	// console.log(lotsOfArgs(1, "abc", true));
 
