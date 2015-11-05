@@ -7,7 +7,7 @@ export default function() {
 	// // var three = nums[2];
 	//
 	// // ES6
-	// let [one, two, three] = nums;
+	//  = nums;
 	// console.log(one, two, three);
 
 
@@ -83,7 +83,7 @@ export default function() {
 	//
 	//
 	// // ES6
-	// let {uid, name, location, username} = testJSON;
+	// let  = testJSON;
 	// console.log(uid);
 	// console.log(name);
 	// console.log(location);
@@ -133,10 +133,10 @@ export default function() {
 	// 	}
 	// ];
 	//
-	// for (let {name, location: {city, state}} of usersJSON) {
+	// for (let ??????? of usersJSON) {
 	// 	console.log("Person: " + name + ", Location: " + city + ", " + state);
 	// }
-	
+
 	// function getUserInfo({uid, username}) {
 	// 	return [uid, username];
 	// }
